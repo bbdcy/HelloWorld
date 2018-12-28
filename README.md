@@ -5,7 +5,7 @@ Here is the first text in README.md
 
 * list first
 * list second
-* elephant elephant
+* puma elephant
 * list third
 
 EOM
